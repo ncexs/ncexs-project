@@ -1,3 +1,7 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/ncexs/ncexs-project)
+![Contributors](https://img.shields.io/github/contributors/ncexs/ncexs-project)
+![License](https://img.shields.io/github/license/ncexs/ncexs-project)
+
 # NCEXS Project
 
 🚀 *Next Core Edge eXecution System* – experimental AI runtime interface for edge devices, secured nodes, and quantum sync environments.
