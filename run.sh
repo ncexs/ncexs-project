@@ -1,1 +1,1 @@
-echo 'Running NCEXS AI Engine...'
+echo 'Launching NCEXS Edge AI...'
