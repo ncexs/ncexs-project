@@ -16,3 +16,7 @@ Initializing NCEXS Core...
 Quantum Handshake Complete.
 Secure Edge Node Verified.
 Deployment Success.
+
+## Contributing
+
+Interested in helping develop this project? Check out [CONTRIBUTING.md](./CONTRIBUTING.md) and feel free to fork and submit pull requests!
